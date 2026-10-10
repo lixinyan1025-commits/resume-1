@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-10T06:00:00Z",
+  "title": "Design System: 李鑫炎 · 学习与实践简历",
+  "extensions": {
+    "colorMeta": {
+      "bg": {
+        "role": "neutral",
+        "displayName": "墨蓝背景",
+        "tonalRamp": [
+          "oklch(15% 0.035 265)",
+          "oklch(26% 0.035 265)",
+          "oklch(37% 0.035 265)",
+          "oklch(48% 0.035 265)",
+          "oklch(59% 0.035 265)",
+          "oklch(70% 0.035 265)",
+          "oklch(81% 0.035 265)",
+          "oklch(95% 0.035 265)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "半透明深蓝表面",
+        "tonalRamp": [
+          "oklch(15% 0.03 265)",
+          "oklch(26% 0.03 265)",
+          "oklch(37% 0.03 265)",
+          "oklch(48% 0.03 265)",
+          "oklch(59% 0.03 265)",
+          "oklch(70% 0.03 265)",
+          "oklch(81% 0.03 265)",
+          "oklch(95% 0.03 265)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "低透明度边界",
+        "tonalRamp": [
+          "oklch(15% 0.04 260)",
+          "oklch(26% 0.04 260)",
+          "oklch(37% 0.04 260)",
+          "oklch(48% 0.04 260)",
+          "oklch(59% 0.04 260)",
+          "oklch(70% 0.04 260)",
+          "oklch(81% 0.04 260)",
+          "oklch(95% 0.04 260)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "雾白文字",
+        "tonalRamp": [
+          "oklch(15% 0.01 260)",
+          "oklch(26% 0.01 260)",
+          "oklch(37% 0.01 260)",
+          "oklch(48% 0.01 260)",
+          "oklch(59% 0.01 260)",
+          "oklch(70% 0.01 260)",
+          "oklch(81% 0.01 260)",
+          "oklch(95% 0.01 260)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "蓝灰说明文字",
+        "tonalRamp": [
+          "oklch(15% 0.04 260)",
+          "oklch(26% 0.04 260)",
+          "oklch(37% 0.04 260)",
+          "oklch(48% 0.04 260)",
+          "oklch(59% 0.04 260)",
+          "oklch(70% 0.04 260)",
+          "oklch(81% 0.04 260)",
+          "oklch(95% 0.04 260)"
+        ]
+      },
+      "cyan": {
+        "role": "primary",
+        "displayName": "冰青操作色",
+        "tonalRamp": [
+          "oklch(15% 0.09 215)",
+          "oklch(26% 0.09 215)",
+          "oklch(37% 0.09 215)",
+          "oklch(48% 0.09 215)",
+          "oklch(59% 0.09 215)",
+          "oklch(70% 0.09 215)",
+          "oklch(81% 0.09 215)",
+          "oklch(95% 0.09 215)"
+        ]
+      },
+      "violet": {
+        "role": "secondary",
+        "displayName": "柔紫氛围色",
+        "tonalRamp": [
+          "oklch(15% 0.12 295)",
+          "oklch(26% 0.12 295)",
+          "oklch(37% 0.12 295)",
+          "oklch(48% 0.12 295)",
+          "oklch(59% 0.12 295)",
+          "oklch(70% 0.12 295)",
+          "oklch(81% 0.12 295)",
+          "oklch(95% 0.12 295)"
+        ]
+      },
+      "button-primary": {
+        "role": "primary",
+        "displayName": "浅青按钮",
+        "tonalRamp": [
+          "oklch(15% 0.07 215)",
+          "oklch(26% 0.07 215)",
+          "oklch(37% 0.07 215)",
+          "oklch(48% 0.07 215)",
+          "oklch(59% 0.07 215)",
+          "oklch(70% 0.07 215)",
+          "oklch(81% 0.07 215)",
+          "oklch(95% 0.07 215)"
+        ]
+      },
+      "button-primary-text": {
+        "role": "neutral",
+        "displayName": "按钮深蓝文字",
+        "tonalRamp": [
+          "oklch(15% 0.035 245)",
+          "oklch(26% 0.035 245)",
+          "oklch(37% 0.035 245)",
+          "oklch(48% 0.035 245)",
+          "oklch(59% 0.035 245)",
+          "oklch(70% 0.035 245)",
+          "oklch(81% 0.035 245)",
+          "oklch(95% 0.035 245)"
+        ]
+      },
+      "button-primary-hover": {
+        "role": "primary",
+        "displayName": "浅青悬停色",
+        "tonalRamp": [
+          "oklch(15% 0.045 215)",
+          "oklch(26% 0.045 215)",
+          "oklch(37% 0.045 215)",
+          "oklch(48% 0.045 215)",
+          "oklch(59% 0.045 215)",
+          "oklch(70% 0.045 215)",
+          "oklch(81% 0.045 215)",
+          "oklch(95% 0.045 215)"
+        ]
+      },
+      "button-secondary": {
+        "role": "neutral",
+        "displayName": "透明次按钮表面",
+        "tonalRamp": [
+          "oklch(15% 0.03 260)",
+          "oklch(26% 0.03 260)",
+          "oklch(37% 0.03 260)",
+          "oklch(48% 0.03 260)",
+          "oklch(59% 0.03 260)",
+          "oklch(70% 0.03 260)",
+          "oklch(81% 0.03 260)",
+          "oklch(95% 0.03 260)"
+        ]
+      },
+      "button-secondary-text": {
+        "role": "neutral",
+        "displayName": "次按钮蓝白文字",
+        "tonalRamp": [
+          "oklch(15% 0.03 260)",
+          "oklch(26% 0.03 260)",
+          "oklch(37% 0.03 260)",
+          "oklch(48% 0.03 260)",
+          "oklch(59% 0.03 260)",
+          "oklch(70% 0.03 260)",
+          "oklch(81% 0.03 260)",
+          "oklch(95% 0.03 260)"
+        ]
+      },
+      "button-secondary-hover": {
+        "role": "neutral",
+        "displayName": "次按钮悬停深蓝",
+        "tonalRamp": [
+          "oklch(15% 0.055 245)",
+          "oklch(26% 0.055 245)",
+          "oklch(37% 0.055 245)",
+          "oklch(48% 0.055 245)",
+          "oklch(59% 0.055 245)",
+          "oklch(70% 0.055 245)",
+          "oklch(81% 0.055 245)",
+          "oklch(95% 0.055 245)"
+        ]
+      },
+      "tag-bg": {
+        "role": "secondary",
+        "displayName": "透明柔紫标签表面",
+        "tonalRamp": [
+          "oklch(15% 0.1 295)",
+          "oklch(26% 0.1 295)",
+          "oklch(37% 0.1 295)",
+          "oklch(48% 0.1 295)",
+          "oklch(59% 0.1 295)",
+          "oklch(70% 0.1 295)",
+          "oklch(81% 0.1 295)",
+          "oklch(95% 0.1 295)"
+        ]
+      },
+      "tag-text": {
+        "role": "secondary",
+        "displayName": "柔紫标签文字",
+        "tonalRamp": [
+          "oklch(15% 0.1 295)",
+          "oklch(26% 0.1 295)",
+          "oklch(37% 0.1 295)",
+          "oklch(48% 0.1 295)",
+          "oklch(59% 0.1 295)",
+          "oklch(70% 0.1 295)",
+          "oklch(81% 0.1 295)",
+          "oklch(95% 0.1 295)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "姓名",
+        "purpose": "姓名强调；手机为42px。"
+      },
+      "headline": {
+        "displayName": "章节标题",
+        "purpose": "章节分组；手机为23px。"
+      },
+      "title": {
+        "displayName": "容器标题",
+        "purpose": "工具、教育与视频卡片标题。"
+      },
+      "body": {
+        "displayName": "正文",
+        "purpose": "系统字体、宽松行高；卡片说明按密度缩小。"
+      },
+      "label": {
+        "displayName": "辅助标签",
+        "purpose": "辅助信息与胶囊标签。"
+      },
+      "button": {
+        "displayName": "按钮文字",
+        "purpose": "主次操作按钮。"
+      }
+    },
+    "shadows": [
+      {
+        "name": "card-rest",
+        "value": "0 10px 40px rgba(0,0,0,.11),inset 0 1px rgba(235,244,255,.025)",
+        "purpose": "通用容器的柔和静止层次。"
+      },
+      {
+        "name": "card-hover",
+        "value": "0 12px 42px rgba(0,0,0,.2)",
+        "purpose": "指针悬停的微弱提升。"
+      }
+    ],
+    "motion": [
+      {
+        "name": "state-transition",
+        "value": "200ms",
+        "purpose": "背景、边框、阴影、颜色与亮度的状态变化。"
+      },
+      {
+        "name": "tilt-max",
+        "value": "6deg",
+        "purpose": "Vanilla-Tilt 最大倾斜。"
+      },
+      {
+        "name": "tilt-speed",
+        "value": "400ms",
+        "purpose": "Vanilla-Tilt 响应速度。"
+      },
+      {
+        "name": "tilt-glare",
+        "value": "0.08–0.12",
+        "purpose": "按容器使用的glare上限。"
+      },
+      {
+        "name": "tilt-gate",
+        "value": "min-width:900px; hover:hover; pointer:fine; maxTouchPoints:0; prefers-reduced-motion:no-preference",
+        "purpose": "触摸、较窄屏幕、减少动态与打印保持静态；视频播放时取消所在容器倾斜。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow-container",
+        "value": "1290px"
+      },
+      {
+        "name": "two-column",
+        "value": "1000px"
+      },
+      {
+        "name": "tilt-disabled-max",
+        "value": "899px"
+      },
+      {
+        "name": "single-column",
+        "value": "640px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "浅青实色的明确作品或媒体操作。",
+      "html": "<a class=\"ds-button ds-primary\" href=\"#preview\">展示与下载<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid rgba(158,178,211,.2);border-radius:10px;font:500 12px/1.5 'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;padding:10px 14px;text-decoration:none;cursor:pointer;transition:background .2s,border-color .2s,box-shadow .2s}.ds-button svg{width:15px;height:15px}.ds-button:focus-visible{outline:2px solid var(--cyan,#84dcf1);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}.ds-primary{background:#a6dcec;color:#061624;border-color:#a6dcec}.ds-primary:hover{background:#c0eafa;color:#071725;border-color:#c0eafa}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "透明深色与细边框的补充操作。",
+      "html": "<a class=\"ds-button ds-secondary\" href=\"#preview\">源码仓库<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.65\" aria-hidden=\"true\"><path d=\"M7 7h10v10M7 17 17 7\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid rgba(158,178,211,.2);border-radius:10px;font:500 12px/1.5 'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;padding:10px 14px;text-decoration:none;cursor:pointer;transition:background .2s,border-color .2s,box-shadow .2s}.ds-button svg{width:15px;height:15px}.ds-button:focus-visible{outline:2px solid var(--cyan,#84dcf1);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}}.ds-secondary{background:rgba(78,96,129,.1);color:#cedbef}.ds-secondary:hover{border-color:#78b8d66b;background:#183349;box-shadow:0 0 18px rgba(99,199,234,.07)}"
+    },
+    {
+      "name": "Tag",
+      "kind": "chip",
+      "refersTo": "tag",
+      "description": "非交互的作品类型或实践标签。",
+      "html": "<span class=\"ds-tag\">Android App</span>",
+      "css": ".ds-tag{display:inline-flex;align-items:center;width:fit-content;white-space:nowrap;border-radius:20px;border:1px solid rgba(179,156,239,.24);background:rgba(149,124,230,.09);color:#c0b1f5;padding:4px 10px;font:11px/1.6 'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif}"
+    },
+    {
+      "name": "Bento Card",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "半透明大圆角内容容器；此处用可聚焦链接演示证书卡片状态。",
+      "html": "<a class=\"ds-card\" href=\"#preview\"><h3 class=\"ds-card-title\">学习与实践</h3><p class=\"ds-card-copy\">真实作品、工具实践与学习记录。</p></a>",
+      "css": ".ds-card{display:block;position:relative;min-width:0;padding:28px;background:var(--surface,rgba(20,27,43,.86));color:var(--text,#eff4ff);border:1px solid var(--line,rgba(177,196,230,.14));border-radius:var(--radius,24px);box-shadow:0 10px 40px rgba(0,0,0,.11),inset 0 1px rgba(235,244,255,.025);backdrop-filter:blur(16px);transition:border-color .2s,box-shadow .2s;text-decoration:none;font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif}.ds-card:hover{border-color:rgba(144,186,232,.3);box-shadow:0 12px 42px rgba(0,0,0,.2)}.ds-card:focus-visible{outline:2px solid var(--cyan,#84dcf1);outline-offset:5px}.ds-card-title{margin:0;font-size:17px;font-weight:650;line-height:1.45}.ds-card-copy{margin:16px 0 0;font-size:13px;line-height:1.7;color:var(--muted,#a9b6cc)}@media(max-width:640px){.ds-card{padding:24px;border-radius:22px}}@media(prefers-reduced-motion:reduce){.ds-card{transition:none}}"
+    },
+    {
+      "name": "Section Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "页首直接跳转章节的轻量文字导航。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"简历导航\"><a class=\"ds-nav-link\" href=\"#projects\">作品</a><a class=\"ds-nav-link\" href=\"#practice\">实践</a><a class=\"ds-nav-link\" href=\"#certificates\">认证</a></nav>",
+      "css": ".ds-nav{display:flex;gap:32px;font:13px/1.7 'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#b7c1d4}.ds-nav-link{color:inherit;text-decoration:none;transition:color .2s}.ds-nav-link:hover{color:var(--cyan,#84dcf1)}.ds-nav-link:focus-visible{outline:2px solid var(--cyan,#84dcf1);outline-offset:5px}@media(max-width:640px){.ds-nav{display:none}}@media(prefers-reduced-motion:reduce){.ds-nav-link{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "深色科技 Bento",
+    "overview": "用户指定的 Apple/Bento 方向以墨蓝背景、半透明圆角表面与安静的细边框呈现。紫色提供柔和的空间氛围，青色帮助识别操作与技术线索；内容保持清晰、克制，让真实作品与学习记录承担说服力。\n\n信息密度通过大小不同的容器组织，文字与原始素材保持可读。桌面倾斜是指针反馈，移动端和减少动态模式保持静态。系统字体避免远程字体加载，使离线阅读的外观稳定。",
+    "keyCharacteristics": [
+      "墨蓝底色与半透明深色表面。",
+      "青色操作提示、紫色氛围与薄边框。",
+      "圆角 Bento 容器与直接可读的中文层级。",
+      "桌面轻微空间反馈，手机静态阅读。"
+    ],
+    "rules": [],
+    "dos": [
+      "Do 保持深色科技 Bento、柔和圆角与安静边界。",
+      "Do 用真实原图、简洁文字与可打开的链接表达成果。",
+      "Do 为键盘焦点提供可见轮廓，并在触摸与减少动态模式保持静态。",
+      "Do 让手机文字和打印内容自然换行。"
+    ],
+    "donts": [
+      "Don't 把长段正文做成渐变、发光字或动态效果。",
+      "Don't 为装饰裁切证书文字，或改写原始素材中的事实。",
+      "Don't 让倾斜阻碍视频控制、打印或移动端阅读。",
+      "Don't 添加无事实来源的能力、排名、规模或模型版本。"
+    ]
+  }
+}
